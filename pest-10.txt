@@ -1,0 +1,1 @@
+{0: 'asiatic rice borer', 1: 'brown plant hopper', 2: 'paddy stem maggot', 3: 'rice gall midge', 4: 'rice leaf caterpillar', 5: 'rice leaf roller', 6: 'rice leafhopper', 7: 'rice water weevil', 8: 'small brown plant hopper', 9: 'yellow rice borer'}

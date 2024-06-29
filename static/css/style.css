@@ -1,0 +1,40 @@
+.sidebar {
+    height: 100vh;
+    background-color: #343a40;
+    color: white;
+    padding: 15px;
+}
+.sidebar a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.sidebar a:hover {
+    background-color: #0080ff;
+    color: white;
+}
+.sidebar a.active {
+    background-color: #007bff;
+    color: white;
+}
+
+
+.border-form {
+    border: solid;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.form-image {
+    border: solid;
+
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+
+}
+
